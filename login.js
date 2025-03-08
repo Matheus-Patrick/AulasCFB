@@ -138,4 +138,3 @@ class Login{
         id_estiloCSS.remove();
     }
 }
-export {Login};
